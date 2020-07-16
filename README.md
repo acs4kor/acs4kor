@@ -47,13 +47,6 @@
 
 </p>
 
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/social/Wordpress.svg"> 
-</p>
-
-
 
 ***********************************
 
