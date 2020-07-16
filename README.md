@@ -42,8 +42,6 @@
 <img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/services/google-apps-script.svg" alt="google-apps-script" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/services/Zendesk.svg" alt="Zendesk" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
@@ -52,7 +50,7 @@
 ### - Blogs 🌱
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/blogs/Wordpress.svg"> 
+<img src="https://raw.githubusercontent.com/acs4kor/acs4kor/master/svg/social/Wordpress.svg"> 
 </p>
 
 
